@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+button {
+  margin: 5px;
+  height: 25px;
+  background: #f2f2f2;
+  border: none;
+}
+
+button:hover {
+  border: 1px solid;
+}
